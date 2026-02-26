@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-const Case = require('./models/Case');
+const Case = require('./models/case');
 
 dotenv.config();
 
