@@ -1,4 +1,4 @@
-const Case = require('../models/Case');
+const Case = require('../models/case');
 const Petitioner = require('../models/Petitioner');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
